@@ -1,0 +1,20 @@
+#### `requirements.txt`
+APScheduler==3.10.4
+Django==5.0.1
+anyio==4.2.0
+asgiref==3.7.2
+certifi==2025.8.3
+charset-normalizer==3.3.2
+httpx==0.27.0
+idna==3.6
+pymongo==4.10.1
+pip==23.3
+python-telegram-bot==21.6
+pytz==2023.3
+python-dotenv==1.0.1
+requests==2.31.0
+six==1.16.0
+sniffio==1.3.0
+sqlparse==0.5.3
+tzdata==2023.3
+urllib3==2.5.0
